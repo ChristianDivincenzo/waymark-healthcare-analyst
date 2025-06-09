@@ -68,3 +68,8 @@ python waymark_assessment.py
 - Implements continuous enrollment period detection through date gap analysis
 - Applies vectorized operations for scalable data processing
 
+## Testing
+To validate the results:
+```bash
+python tests/validate_data.py
+
